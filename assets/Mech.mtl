@@ -1,0 +1,60 @@
+newmtl PaintJobWithScuffForGunSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Channel_PaintJob_Diffuse.png
+bump MechNormalMap.png -bm 5
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lessblackSG
+illum 4
+Kd 0.21 0.21 0.21
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Channel_PaintJob_Diffuse.png
+bump PaintJobNormalMap.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Channel_PaintJob_SpecMap.jpg
+Ns 0.00
+newmtl phong6SG
+illum 4
+Kd 0.02 0.02 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl phong7SG
+illum 4
+Kd 0.39 0.02 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.26 0.26 0.26
+Ns 57.54
+newmtl phong8SG
+illum 4
+Kd 0.08 0.43 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+bump GlassNormalMap.jpg -bm 1
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 6.95

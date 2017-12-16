@@ -1,0 +1,252 @@
+newmtl ArrowSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd stone.png
+bump stoneNormalMap.png -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks stoneSpecMap.png
+Ns 18.00
+newmtl ArrowSG1
+illum 4
+Kd 0.90 0.10 0.04
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArrowSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd qubodup-light_wood (1).png
+Ni 1.00
+Ks 0.28 0.28 0.28
+Ns 73.97
+newmtl BowSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd qubodup-light_wood (1).png
+Ni 1.00
+Ks 0.28 0.28 0.28
+Ns 73.97
+newmtl BowSG1
+illum 4
+Kd 1.00 0.99 0.92
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Generic_Wood_DarkSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+bump Generic_Wood_Normal_Map.jpg -bm 2.032258
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl Roof_Wood_PlanksSG
+illum 4
+Kd 0.48 0.22 0.07
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+bump Bucket_Wood_Planks_Normal_Map.jpg -bm 5
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ShieldSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metall010-new-tileable.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks metall010-new-tileable.png
+Ns 18.00
+newmtl SwordSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metall005-new.png
+bump metall005-new-nm.png -bm 0.2
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks metall005-newSpecularMap.png
+Ns 18.00
+newmtl SwordSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LeatherTexture.png
+bump LeatherNormalMapFinal.png -bm 5
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks LeatherSpecMap.png
+Ns 78.40
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Forge_Stone_Texture.jpg
+bump Forge_Stone_Normal.png -bm 0.838509
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Forge_Stone_SpecMap.png
+Ns 19.48
+newmtl phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Forge_Hot_Coals.png
+bump Forge_Hot_Coals.png -bm 5
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Forge_Hot_Coals.png
+Ns 0.00
+newmtl phong4SG
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+bump Forge_Stone_Normal.png -bm 5
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 98.00
+newmtl phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ingot_Steel_Texture.jpg
+bump Ingot_Steel_Normal.png -bm 3.064516
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Ingot_Steel_Texture.jpg
+Ns 0.00
+newmtl phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ground_Dirt_Texture.jpg
+bump Ground_Dirt_Normal.png -bm 5
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl phong7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Log_Bark_Texture.png
+bump Log_Bark_Normal.png -bm 5
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Generic_Wood.png
+bump Generic_Wood_Normal_Map.jpg -bm 2.032258
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl phong9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Bucket_Wood_Planks_Texture.jpg
+bump Bucket_Wood_Planks_Normal_Map.jpg -bm 5
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl phong10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Anvil_Rusty_Cast_Iron.jpg
+bump Anvil_Rusty_Cast_Iron_Normal_Map.jpg -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Bellows_Leather_Texture.png
+bump Bellows_Leather_Normal_Map.jpg -bm 1
+Ni 1.00
+Ks 0.11 0.11 0.11
+Ns 18.00
+newmtl phong12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Sword_Damascus_Steel_Texture.png
+bump Sword_Damascus_Steel_Normal.jpg -bm 10
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Sword_Damascus_Steel_Spec_Map.png
+Ns 0.00
+newmtl phong13SG
+illum 4
+Kd 0.78 0.69 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+bump Gold_Hilt_Normal_Map.jpg -bm 4
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Hammer_Head_Metal_Texture.png
+bump Hammer_Head_Metal_Normal.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Hammer_Head_Metal_Spec.jpg
+Ns 18.00
+newmtl phong17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+bump sign_normal_map.jpg -bm 1000
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks sign_spec_map.jpg
+Ns 18.00
+newmtl phongE2SG
+illum 4
+Kd 0.36 0.36 0.36
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+bump Forge_Stone_Normal.png -bm -1.967742
+Ni 1.00
+Ks 0.19 0.19 0.19
